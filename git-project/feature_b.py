@@ -2,4 +2,4 @@
 
 
 def feature_b():
-    pass
+    return 42
